@@ -40,22 +40,22 @@ global.vcardowner = ['94714831387'] //ur owner number
 global.ownername = "ᶜʸᴮᴱᴿ ᴺᴱᵀᵂᴼᴿᴷ ᴮᴼᵀᶻ" //ur owner name
 global.ytname = "YT: TGM Arcade" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
-global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
+global.location = "Sri Lanka" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94714831387']
-global.ownertag = '94714831387' //ur tag number
-global.botnumber = '94714831387' //Add your Bot Number For Log
+global.owner = ['94743617538']
+global.ownertag = '94743617538' //ur tag number
+global.botnumber = '94743617538' //Add your Bot Number For Log
 global.botname = 'ᶜʸᴮᴱᴿ ᴺᴱᵀᵂᴼᴿᴷ ᴮᴼᵀᶻ' //ur bot name
-global.ig = "https://youtu.be/" //your theme url which will be displayed on whatsapp
-global.myweb = "https://youtu.be/" //ur website to be displayed
-global.sc = 'https://github.com/' //script link
+global.ig = "https://api.whatsapp.com/send?phone=+94743617538" //your theme url which will be displayed on whatsapp
+global.myweb = "https://api.whatsapp.com/send?phone=+94743617538" //ur website to be displayed
+global.sc = 'https://api.whatsapp.com/send?phone=+94743617538' //script link
 global.linkz = 'https://youtu.be/'
 global.reactmoji = "📝" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
 global.packname = "ᶜʸᴮᴱᴿ ᴺᴱᵀᵂᴼᴿᴷ ᴮᴼᵀᶻ" //ur sticker watermark packname
-global.author = "ᶜʸᴮᴱᴿ ᴺᴱᵀᵂᴼᴿᴷ ᴮᴼᵀᶻ" //ur sticker watermark author
-global.footer = "® ᶜʸᴮᴱᴿ ᴺᴱᵀᵂᴼᴿᴷ ᴮᴼᵀᶻ"
+global.author = "CYBER FLASH" //ur sticker watermark author
+global.footer = "CYBER FLASH BOT"
 global.aliveimg ="https://cdn.wallpapersafari.com/17/20/Ka81Gs.jpg"
 global.allmenuimg ="https://cdn.wallpapersafari.com/17/20/Ka81Gs.jpg"
 global.welcomeimg= "https://cdn.wallpapersafari.com/17/20/Ka81Gs.jpg"
@@ -70,7 +70,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94714831387'] //ADD YOU NUMBER
+global.premium = ['94743617538'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
